@@ -69,8 +69,8 @@ My core areas include:
 
 ## 📫 Contact
 
-**Telegram:** @flowbitdev  
-**Email:** *(optional—add later if needed)*  
+**Telegram:** [@flowbitdev](https://t.me/flowbitdev)  
+**Email:** flowbitdev@gmail.com  
 
 ---
 
